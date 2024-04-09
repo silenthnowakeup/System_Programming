@@ -1,6 +1,6 @@
 [submodule "lab1"]
-    path = lab1
-    url = git@github.com:silenthnowakeup/walkdir.git
+	path = lab1
+	url = git@github.com:silenthnowakeup/walkdir.git
 [submodule "lab2"]
-    path = lab2
-    url = https://github.com/silenthnowakeup/Processes.git
+	path = lab2
+	url = git@github.com:silenthnowakeup/Processes.git
