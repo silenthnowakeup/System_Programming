@@ -7,3 +7,6 @@
 [submodule "lab3"]
 	path = lab3
 	url = git@github.com:silenthnowakeup/Process_Collab_and_Sync.git
+[submodule "lab4"]
+	path = lab4
+	url = git@github.com:silenthnowakeup/lab_4.git
